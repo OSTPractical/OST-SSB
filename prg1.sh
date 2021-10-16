@@ -4,5 +4,8 @@
 echo Enter user name to search :
 read uname
 grep $uname /etc/passwd
+cal
+who
+
 
 
